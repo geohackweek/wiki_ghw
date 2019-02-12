@@ -14,9 +14,9 @@ Sponsors will benefit from advertising their company, networking with data scien
 If you are intersted in sponsoring a Hackweek event (e.g. student-industry mixer, welcome and farewell receptions) please contact <a href="mailto:rlmurray@uw.edu">Rachel Murray</a>.
 
 | Sponsorship Tier | \$10,000 | \$5,000 | \$2,500 | \$1,000 |
-| ---------------- | -------- | ------- | ------- | ------- |
+| :---------------- | :--------: | :-------: | :-------: | :--------: |
 | Funding goes towards: | Support for participants (travel and accommodations) | Curriculum development, funding instructor travel | Reception or mixer events | Meals and coffee breaks | 
-| ** Benefits to Sponsors ** | | | | |
+| **Benefits to Sponsors** | | | | |
 | Logo on website | X | X | X | X |
 | Social Media shout-outs | X | X | X |  |
 | Invitation to Geohackweek welcome reception and mixer | X | X |  | |
