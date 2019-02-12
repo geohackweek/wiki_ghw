@@ -69,5 +69,9 @@ entries:
       output: web, pdf
 
   - title: Information for Sponsors
-    url: /sponsorship_tiers.html
     output: web, pdf
+    folderitems:
+    
+    - title: Sponsorship Tiers
+      url: /sponsorship_tiers.html
+      output: web, pdf
