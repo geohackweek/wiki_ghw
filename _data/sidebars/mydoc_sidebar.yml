@@ -48,6 +48,10 @@ entries:
       url: /learning_resources.html
       output: web, pdf
 
+    - title: Tutorial Leads
+      url: /tutorial_leads.html
+      output: web, pdf
+
   - title: Projects
     output: web, pdf
     folderitems:
