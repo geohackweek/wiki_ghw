@@ -11,7 +11,7 @@ We are currently recruiting sponsors for the 2019 Geohackweek.
 
 Sponsors will benefit from advertising their organization, networking with data scientists, discovering new technology and research and collaborating on projects. Other opportunities include sponsoring a need-based student to support diversity and education evaluation for hackweek best practices. 
             
-If you are intersted in sponsoring a Hackweek event (e.g. student-industry mixer, welcome and farewell receptions) please contact <a href="mailto:rlmurray@uw.edu">Rachel Murray</a>.
+If you are intersted in sponsoring a Hackweek event (e.g. student-industry mixer, welcome and farewell receptions) please contact <a href="mailto:arendta@uw.edu">Anthony Arendt</a>.
 
 | Sponsorship Tier | \$10,000 | \$5,000 | \$2,500 | \$1,000 |
 | :---------------- | :--------: | :-------: | :-------: | :--------: |
