@@ -18,9 +18,9 @@ Taxi’s and uber/lyft are also available from the airport. Note that for uber/l
 
 # Lodging
 
-The most affordable lodging option in close proximity would be the UW guest housing program which you can book at this link: https://washington.irisregistration.com/Register?code=GuestHousing19. They have an option for $44 a night. 
+The most affordable lodging option in close proximity is the UW guest housing program which you can book at [this link](https://washington.irisregistration.com/Register?code=GuestHousing19). They have an option for $44 a night. 
 
-For about a $100 more UW has some homestay programs which may be worth looking into. However, there may be some additional commuting you will have to do depending on where your homestay location is if you decide to go with this option. https://www.ielp.uw.edu/housing/homestays/
+For about a $100 more UW has some homestay programs which may be worth looking into. However, there may be some additional commuting you will have to do depending on where your homestay location is if you decide to go with this option. The link is [here](https://www.ielp.uw.edu/housing/homestays/).
 
 If you prefer to stay at a hotel, the University of Washington maintains a list of hotels near campus on its [website](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/hotel-accommodations/).
 
