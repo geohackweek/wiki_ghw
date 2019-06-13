@@ -6,13 +6,13 @@ permalink: github_project_management.html
 
 ## GitHub Tools
 
-All participants have been added to the [icesat-2hackweek organization](https://github.com/icesat-2hackweek) page before arriving. GitHub [organizations](https://help.github.com/articles/about-organizations/) are shared accounts allowing people to collaborate across many projects at once. Once projects are formed participants will be organized into [teams](https://help.github.com/articles/organizing-members-into-teams/). Teams are convenient because we can set repository permissions to groups of people rather than individuals, and in our communcations the teams can be mentioned in issues.    
+All participants have been added to the [geohackweek organization](https://github.com/geohackweek) page before arriving. GitHub [organizations](https://help.github.com/articles/about-organizations/) are shared accounts allowing people to collaborate across many projects at once. Once projects are formed participants will be organized into [teams](https://help.github.com/articles/organizing-members-into-teams/). Teams are convenient because we can set repository permissions to groups of people rather than individuals, and in our communcations the teams can be mentioned in issues.    
 
 ## Getting started with a Project
 
-Each hackweek project should be initiated by adding a new repository to the [icesat-2hackweek organization](https://github.com/icesat-2hackweek).  The project name should follow the sequence ic2hw2019_short_snappy_title, for example, see this Geohackweek [ghw2018_snowmelt](https://github.com/geohackweek/ghw2018_snowmelt) project repository from 2018.  
+Each hackweek project should be initiated by adding a new repository to the [geohackweek organization](https://github.com/geohackweek).  The project name should follow the sequence ic2hw2019_short_snappy_title, for example, see this Geohackweek [ghw2018_snowmelt](https://github.com/geohackweek/ghw2018_snowmelt) project repository from 2018.  
 
-Once you have created your project repository, populate the readme with the structure provided in the [Project Guidelines](https://icesat-2hackweek.github.io/wiki/project_guidelines.html). Finally, go to the [projects_2019](https://github.com/icesat-2hackweek/projects_2019) repository and edit the table in the README file to include a hyperlink to your project where you have the option of adding other details like Slack Channel link, data locations, and other details about project and data science leadership on the project.  
+Once you have created your project repository, populate the readme with the structure provided in the [Project Guidelines](https://geohackweek.github.io/wiki_ghw/project_guidelines.html). Finally, go to the [projects_2019](https://github.com/geohackweek/projects_2019) repository and edit the table in the README file to include a hyperlink to your project where you have the option of adding other details like Slack Channel link, data locations, and other details about project and data science leadership on the project.  
 
 ## Project guidelines
 

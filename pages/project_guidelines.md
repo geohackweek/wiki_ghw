@@ -10,7 +10,7 @@ Data science projects are becoming increasingly complex, and new tools are neede
 
 ## Purpose of the projects:
 
-The purpose of our afternoon sessions is for you to gain hands-on experience in working together on a well-defined problem related to cryospheric sciences and the use of ICESat-2 datasets.
+The purpose of our afternoon sessions is for you to gain hands-on experience in working together on a well-defined problem related to geospatial sciences.
 
 ## What is hacking?
 
@@ -24,7 +24,7 @@ Increasingly, research and software development is being conducted across groups
 
 * on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
 * each team will identify and Project and Data Science Lead (described below)
-* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the [GitHub Project Management](https://icesat-2hackweek.github.io/wiki/github_project_management.html) instructions.
+* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the [GitHub Project Management](https://geohackweek.github.io/wiki_ghw/github_project_management.html) instructions.
 * On day 3 we will have a mid-week project check-in.
 * On day 5 each team will present their work in a series of lightning talks.
 
@@ -44,7 +44,7 @@ The Project Lead is typically that group member who initially pitched the idea t
 
 ### Data Science Lead
 
-The lead data scientist will be drawn from the cohort of [hackweek organizers](https://icesat-2hackweek.github.io/our-team.html). The role of the data scientist is to:
+The lead data scientist will be drawn from the cohort of [hackweek organizers](https://geohackweek.github.io/our-team.html). The role of the data scientist is to:
 
 * offer high-level guidance on the recommended libraries and tools
 * enable and encourage participants to solve problems in a way that builds confidence
